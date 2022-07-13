@@ -49,6 +49,12 @@ Gesamt: **1190€**
 
 
 
+### Auto
+
+* https://www.mallorca.com/de/urlaub/mobil-auf-mallorca
+
+
+
 
 
 ## Reiseplan
