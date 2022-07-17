@@ -1,6 +1,7 @@
 # Urlaub Mallorca
 
 ![](mallorca-cover.jpg)
+<small>[unsplash](https://unsplash.com/photos/jJT1cnE4SZ8)</small>
 
 * 2 Wochen - 2 Orte
 * [Reisehinweise](https://www.auswaertiges-amt.de/de/aussenpolitik/laender/spanien-node/spaniensicherheit/210534)
@@ -73,11 +74,22 @@ Gesamt: **1190€**
 ## Reiseplan
 
 * **Palma**
-  * Stadt erkunden
-  * Catedral de Mallorca
-  * Alcudia Old Town und Cap de Formentor (Norden)
-  * Serra de Tramuntana (Westen)
-  * Strand
+  1. Tag: Ankunft
+  2. Tag
+     * Stadt erkunden
+     * Catedral de Mallorca
+  3. Tag
+     * Alcudia Old Town und Cap de Formentor (Norden)
+  4. Tag
+     * Serra de Tramuntana (Westen)
+  5. Tag
+     * Strand
+  6. Tag
+     * Stadt erkunden
+  7. Tag
+     * Strand
+  8. Tag: Umzug
+
 * **Manacor**
   * Stadt erkunden
   * Fahrrad: Via Verde Manacor-Arta
